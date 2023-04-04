@@ -6,10 +6,10 @@ Table of Contents
 - 3. Importing Libraries for time series forecasting
 - 4. Importing data
 - 5.  Data Preprocessing and Visualization
-5.1  Stationarity
-5.1.1  ACF and PACF plots
-5.1.2  Plotting Rolling Statistics
-5.1.3  Augmented Dickey-Fuller Test
+      - 5.1  Stationarity
+        - 5.1.1  ACF and PACF plots
+        - 5.1.2  Plotting Rolling Statistics
+        - 5.1.3  Augmented Dickey-Fuller Test
 5.2  Making Time Series Stationary
 5.2.1  Transformations
 5.2.1.1  Log Scale Transformation
