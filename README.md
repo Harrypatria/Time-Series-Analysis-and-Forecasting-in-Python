@@ -20,19 +20,19 @@ Table of Contents
             - 5.2.3  Further Techniques to remove Seasonality and Trend
             - 5.2.3.1  Differencing
             - 5.2.3.2  Decomposition
-6  Time Series forecasting
-6.1  Autoregression (AR)
-6.1.1  Reversing the transformations
-6.1.2  Forecast quality scoring metrics
-6.2  Moving Average (MA)
-6.3  Autoregressive Moving Average (ARMA)
-6.4  Autoregressive Integrated Moving Average (ARIMA)
-6.5  Interpreting ACF plots
-6.5.1  Auto ARIMA
-6.6  Seasonal Autoregressive Integrated Moving-Average (SARIMA)
-6.6.1  Auto - SARIMA
-6.6.2  Tuned SARIMA
-6.7  SARIMAX
-6.8  Prophet
-6.9  Improving Time Series Forecast models
-6.10  Solve a problem!
+- 6.  Time Series forecasting
+- 6.1  Autoregression (AR)
+- 6.1.1  Reversing the transformations
+- 6.1.2  Forecast quality scoring metrics
+- 6.2  Moving Average (MA)
+- 6.3  Autoregressive Moving Average (ARMA)
+- 6.4  Autoregressive Integrated Moving Average (ARIMA)
+- 6.5  Interpreting ACF plots
+- 6.5.1  Auto ARIMA
+- 6.6  Seasonal Autoregressive Integrated Moving-Average (SARIMA)
+- 6.6.1  Auto - SARIMA
+- 6.6.2  Tuned SARIMA
+- 6.7  SARIMAX
+- 6.8  Prophet
+- 6.9  Improving Time Series Forecast models
+- 6.10  Solve a problem!
