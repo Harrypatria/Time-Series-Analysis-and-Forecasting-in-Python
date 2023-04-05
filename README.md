@@ -21,9 +21,9 @@ Table of Contents
             - 5.2.3.1  Differencing
             - 5.2.3.2  Decomposition
 - 6.  Time Series forecasting
-- 6.1  Autoregression (AR)
-- 6.1.1  Reversing the transformations
-- 6.1.2  Forecast quality scoring metrics
+      - 6.1  Autoregression (AR)
+            - 6.1.1  Reversing the transformations
+            - 6.1.2  Forecast quality scoring metrics
 - 6.2  Moving Average (MA)
 - 6.3  Autoregressive Moving Average (ARMA)
 - 6.4  Autoregressive Integrated Moving Average (ARIMA)
