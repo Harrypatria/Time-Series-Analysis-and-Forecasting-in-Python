@@ -26,8 +26,8 @@ Table of Contents
             - 6.1.2  Forecast quality scoring metrics
       - 6.2  Moving Average (MA)
       - 6.3  Autoregressive Moving Average (ARMA)
-- 6.4  Autoregressive Integrated Moving Average (ARIMA)
-- 6.5  Interpreting ACF plots
+      - 6.4  Autoregressive Integrated Moving Average (ARIMA)
+      - 6.5  Interpreting ACF plots
 - 6.5.1  Auto ARIMA
 - 6.6  Seasonal Autoregressive Integrated Moving-Average (SARIMA)
 - 6.6.1  Auto - SARIMA
