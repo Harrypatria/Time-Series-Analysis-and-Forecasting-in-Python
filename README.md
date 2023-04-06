@@ -32,7 +32,7 @@ Table of Contents
       - 6.6  Seasonal Autoregressive Integrated Moving-Average (SARIMA)
       - 6.6.1  Auto - SARIMA
 - 6.6.2  Tuned SARIMA
-- 6.7  SARIMAX
-- 6.8  Prophet
+      - 6.7  SARIMAX
+      - 6.8  Prophet
 - 6.9  Improving Time Series Forecast models
 - 6.10  Solve a problem!
